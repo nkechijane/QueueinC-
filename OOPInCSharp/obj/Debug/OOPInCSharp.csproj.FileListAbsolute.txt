@@ -1,0 +1,6 @@
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/bin/Debug/OOPInCSharp.exe
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/bin/Debug/OOPInCSharp.pdb
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/obj/Debug/OOPInCSharp.csproj.AssemblyReference.cache
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/obj/Debug/OOPInCSharp.csproj.CoreCompileInputs.cache
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/obj/Debug/OOPInCSharp.exe
+/Users/janeokeke/dev/OOPInCSharp/OOPInCSharp/obj/Debug/OOPInCSharp.pdb
